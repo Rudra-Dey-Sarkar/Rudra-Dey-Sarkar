@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Rudra-Dey-Sarkar
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning prgramming skills and new technoligies
-- 💞️ I’m looking to collaborate on ...
+Student Software Developer skilled In C, C++, Java, HTML, CSS, JavaScript and Specialized in Web Development and MERN Stack
 - 📫 How to reach me https://www.linkedin.com/in/rudra-dey-sarkar-26073822b/
 
 <!---
